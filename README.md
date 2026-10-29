@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # AppBotiris
 Aplicación móvil de emergencia desarrollada en Flutter para la protección de las mujeres, con conexión BLE a un dispositivo portátil, ubicación GPS y envío de alertas a contactos de confianza.
->>>>>>> 8c138a1e6f4f14ad248a5d18efa5d5777218fb67
+>>>>>>> 
